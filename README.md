@@ -3,6 +3,6 @@
 - 🌱 I’m currently a senior at UCSD studying computer science.
 
 - 📫 How to reach me:
-        email: jshamioo@ucsd.edu
+        email: joeyshamioon@gmail.com
         phone: (858)204-4470
 
