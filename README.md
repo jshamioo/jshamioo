@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph
 - 👀 I’m interested in building projects that solve inconveniences in my life
-- 🌱 I’m currently a senior at UCSD studying computer science.
+- 🌱 I’m currently a Software Engineer at Breg!
 
 - 📫 How to reach me:
         email: joeyshamioon@gmail.com
